@@ -1,2 +1,2 @@
-# sqlalchemy-challenge.
+# sqlalchemy-challenge
 SQL Alchemy Climate Analysis
